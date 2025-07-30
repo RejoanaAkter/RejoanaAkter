@@ -1,6 +1,6 @@
 # Hey 👋 I'm Rejoana Akter
 
-I'm passionate about programming and building a Recipe Management System to make cooking more organized and fun!
+ "I'm in love with programming — the kind where you lose track of time, talk to your code, and cheer when bugs fix themselves!"
 
 📬 Connect with me:  
 [LinkedIn](https://linkedin.com/in/rejoana-akter)
